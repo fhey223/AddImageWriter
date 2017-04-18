@@ -1,0 +1,13 @@
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\BatchAdd\bin\Debug\BatchAdd.exe.config
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\BatchAdd\obj\Debug\BatchAdd.Properties.Resources.resources
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\BatchAdd\obj\Debug\BatchAdd.csproj.GenerateResource.Cache
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\BatchAdd\bin\Debug\BatchAdd.exe
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\BatchAdd\bin\Debug\BatchAdd.pdb
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\BatchAdd\bin\Debug\ImageWriter.dll
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\BatchAdd\bin\Debug\Newtonsoft.Json.dll
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\BatchAdd\bin\Debug\ImageWriter.pdb
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\BatchAdd\obj\Debug\BatchAdd.csprojResolveAssemblyReference.cache
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\BatchAdd\obj\Debug\BatchAdd.BatchAdd.resources
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\BatchAdd\obj\Debug\BatchAdd.exe
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\BatchAdd\obj\Debug\BatchAdd.pdb
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\BatchAdd\bin\Debug\seting.json

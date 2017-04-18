@@ -1,0 +1,9 @@
+c:\users\dongwj5\documents\visual studio 2015\Projects\ImageTest\ImageWriter\bin\Debug\ImageWriter.dll
+c:\users\dongwj5\documents\visual studio 2015\Projects\ImageTest\ImageWriter\bin\Debug\ImageWriter.pdb
+c:\users\dongwj5\documents\visual studio 2015\Projects\ImageTest\ImageWriter\obj\Debug\ImageWriter.dll
+c:\users\dongwj5\documents\visual studio 2015\Projects\ImageTest\ImageWriter\obj\Debug\ImageWriter.pdb
+C:\Users\dongwj5\Documents\Visual Studio 2015\Projects\ImageTest\ImageWriter\obj\Debug\ImageWriter.csprojResolveAssemblyReference.cache
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\ImageWriter\bin\Debug\ImageWriter.dll
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\ImageWriter\bin\Debug\ImageWriter.pdb
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\ImageWriter\obj\Debug\ImageWriter.dll
+D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\ImageWriter\obj\Debug\ImageWriter.pdb
