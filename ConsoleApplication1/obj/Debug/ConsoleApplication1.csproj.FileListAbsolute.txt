@@ -1,9 +1,0 @@
-C:\Users\dongwj5\Documents\Visual Studio 2015\Projects\ImageTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\dongwj5\Documents\Visual Studio 2015\Projects\ImageTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\dongwj5\Documents\Visual Studio 2015\Projects\ImageTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\dongwj5\Documents\Visual Studio 2015\Projects\ImageTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-C:\Users\dongwj5\Documents\Visual Studio 2015\Projects\ImageTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\dongwj5\Documents\Visual Studio 2015\Projects\ImageTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
