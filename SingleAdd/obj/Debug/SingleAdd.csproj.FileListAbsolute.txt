@@ -16,3 +16,6 @@ D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\SingleAdd\bin\Debug
 D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\SingleAdd\bin\Debug\SingleAdd.resx
 D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\SingleAdd\bin\Debug\SingleAdd.cs
 D:\资料\我的文档\Visual Studio 2015\Projects\ImageTest\SingleAdd\bin\Debug\SingleAdd.Designer.cs
+E:\project\Test\AddImageWriter\SingleAdd\bin\Debug\SingleAdd.exe.config
+E:\project\Test\AddImageWriter\SingleAdd\obj\Debug\SingleAdd.exe
+E:\project\Test\AddImageWriter\SingleAdd\obj\Debug\SingleAdd.pdb
